@@ -10,14 +10,16 @@ const contact_info = {
     discord: "swatunits",
 }
 ```
+
 ## 🦇 Tech Stack
+```javascript
 const tech_stack = {
     languages: ["Python", "JavaScript"],
     frameworks: ["discord.py", "discord.js"],
     focus: ["Security", "Privacy"],
     platforms: ["Windows", "Linux"]
 }
-
+```
 
 ---
 <div align="center">
