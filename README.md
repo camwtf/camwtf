@@ -1,16 +1,25 @@
-## Hi there 👋
+![Javascript Badge](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 
-<!--
-**camwtf/camwtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><strong>Cam.💻</strong></h1>
 
-Here are some ideas to get you started:
+## 🦇 Contact Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const contact_info = {
+    personal: "slutcam@proton.me",
+    discord: "swatunits",
+}
+```
+## 🦇 Tech Stack
+const tech_stack = {
+    languages: ["Python", "JavaScript"],
+    frameworks: ["discord.py", "discord.js"],
+    focus: ["Security", "Privacy"],
+    platforms: ["Windows", "Linux"]
+}
+
+
+---
+<div align="center">
+  <i>Social Media Expert.</i>
+</div>
